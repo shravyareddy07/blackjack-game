@@ -2,7 +2,7 @@
 
 This is a simple implementation of the classic game Blackjack (also known as 21) in JavaScript. The game is played by drawing cards and trying to get a hand that totals as close to 21 as possible without going over. The player starts with two cards and can choose to draw additional cards until they are satisfied with their hand or they go over 21 and lose the game.
 
-***usage:***
+**usage:**
 This will deal the initial two cards to the player and display them on the screen. The player can then choose to draw additional cards by clicking the "New Card" button. The game will continue until the player either decides to stop drawing cards or goes over 21.
 
 ***
